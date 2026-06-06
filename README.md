@@ -52,6 +52,6 @@ Final-year Industrial Automation Engineering student bridging the gap between ha
 ---
 
 ### ⚙️ Environment
-*   **OS:** Fedora / EndeavourOS
+*   **OS:** EndeavourOS
 *   **Editor:** Neovim
 *   **Dotfiles:** [Link to repo](#)
