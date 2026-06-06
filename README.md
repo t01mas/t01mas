@@ -1,8 +1,19 @@
-# Tomás Espincho 🐱
+<div align="center">
 
-### 🎓 Industrial Automation Engineering | 🤖 IoT | 🐧 Linux
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=3776AB&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Tom%C3%A1s+Espincho+;Industrial+Automation+Engineering+;IoT+%7C+Robotics+%7C+Linux)](https://git.io/typing-svg)
 
-Final-year Industrial Automation Engineering student at the University of Aveiro. I build IoT systems, program PLCs, and work on industrial integration. 
+  <a href="https://www.linkedin.com/in/tomas-espincho/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect_with_Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:tomasmespincho@ua.pt">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+</div>
+
+---
+
+Final-year Industrial Automation Engineering student bridging the gap between hardware and software.
 
 ---
 
@@ -43,16 +54,4 @@ Final-year Industrial Automation Engineering student at the University of Aveiro
 ### ⚙️ Environment
 *   **OS:** Fedora / EndeavourOS
 *   **Editor:** Neovim
-*   **Dotfiles:** [Link to repo](#) 
-
----
-
-### 📫 Contact
-<p>
-  <a href="https://www.linkedin.com/in/tomas-espincho/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:tomasmespincho@ua.pt">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+*   **Dotfiles:** [Link to repo](#)
